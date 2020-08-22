@@ -23,7 +23,7 @@ CameraFollow is sused to follow the ball.
 
 SwingController is the game's core mechanic and controls the animation, force applied to the ball for each swing, and the rotation of the arrow. 
 
-ALL THESE SCRIPTS WORK WITHOUT NEEDING THE OTHERS.THEY ARE HIGHLY MODULAR IN THAT SENSE.
+***ALL THESE SCRIPTS WORK WITHOUT NEEDING THE OTHERS.THEY ARE HIGHLY MODULAR IN THAT SENSE.***
 
 The other files included in the project are a free minigolf kit and several space background sets called skyboxes. These skyboxes are paid assets, which should ideally not be used in the final game to avoid copyright infringements. 
 
