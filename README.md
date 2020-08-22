@@ -2,18 +2,20 @@
 
 All the images are located at X:\...\FreeLanceWork\Assets\Sprites
 
-You'd have to open each image in an editor if your choice, make modifications and simply save using the SAME FILE NAME, EXTENSION and DIRECTORY
+You'd have to open each image in an editor if your choice, make modifications and simply save using the ***SAME FILE NAME, EXTENSION and DIRECTORY***
 
 Once all necessary modifications are made, just open Unity and the project should just work without any modifications needed.
 
-#Code
+# Code
 
 All the code for this project is located at X:\...\FreeLanceWork\Assets\Scripts
 
 There are three scripts
+```
 	1. BillboardController.cs
 	2. CameraFollow.cs
-	3. SwingController.cs
+	3. SwingController.cs 
+```
 
 BillboardController rotates the sprite (Character) to always face the camera.
 
